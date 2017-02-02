@@ -5,7 +5,7 @@
         XNet Sample Mobile App.
     </description>
     <author email="casper@xnet.co.th" href="http://www.xnet.co.th">
-        PhoneGap Team
+        Xnet Team
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
